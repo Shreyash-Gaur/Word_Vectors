@@ -99,7 +99,7 @@ The 2D PCA-transformed word vectors are then plotted using Matplotlib, where eac
 
 ## Results
 
-![Word Vectors Visualization](path/to/your/output.png)
+![Word Vectors Visualization](/output.png)
 
 The visualization shows clusters of words with similar meanings. For example, words like "gas," "oil," and "petroleum" are grouped together, while "sad," "joyful," and "happy" form another cluster.
 
