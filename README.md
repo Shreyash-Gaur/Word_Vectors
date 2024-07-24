@@ -46,8 +46,8 @@ This project aims to provide a visual representation of word vectors to understa
 Clone the repository and download the required data:
 
 ```bash
-git clone https://github.com/yourusername/word-vectors-visualization.git
-cd word-vectors-visualization
+git clone https://github.com/Shreyash-Gaur/Word_Vectors.git
+cd Word_Vectors
 download GoogleNews-vectors-negative300.bin
 ```
 
